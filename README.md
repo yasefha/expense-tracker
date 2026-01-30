@@ -4,7 +4,7 @@ This project is built as part of the roadmap.sh backend learning path to practic
 
 ## Roadmap.sh Project Reference
 This project is based on the following roadmap.sh project:
-roadmap.sh/project/expense-tracker
+[roadmap.sh/project/expense-tracker](https://roadmap.sh/projects/expense-tracker)
  
 ## Features
 - Add an expense with a description and amount.
